@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "dd2e16a580c8ab8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "092c8f4138678bed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e8dbf92eaf6a439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tugas buat program kelompok 1-7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "916603bd84515c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e40dbd8341aa522",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2137d0d714892043",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c88d316ce03d6f08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "94730831dad8dfd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce7e29b4585b2517",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e124f0a82e245a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0dbe9beed7f9aa7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tugas buat program kelompok 1-7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b86ffa0a0210976",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tugas buat program kelompok 1-7.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44835881ac37f04a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94d5ca3582f3ace8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tugas buat program kelompok 1-7.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Buka peralih cepat": false,
+      "graph:Buka tampilan grafik": false,
+      "canvas:Buat kanvas baru": false,
+      "daily-notes:Buka catatan hari ini": false,
+      "templates:Masukkan template": false,
+      "command-palette:Buka palet perintah": false
+    }
+  },
+  "active": "8e8dbf92eaf6a439",
+  "lastOpenFiles": [
+    "tugas buat program kelompok 1-7.md"
+  ]
+}
